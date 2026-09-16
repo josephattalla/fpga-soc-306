@@ -1,0 +1,19 @@
+# Vivado generated output
+*.jou
+*.log
+.Xil/
+
+fpga/*.runs/
+fpga/*.cache/
+fpga/*.gen/
+fpga/*.sim/
+fpga/*.hw/
+fpga/*.ip_user_files/
+
+# Simulation
+*.vcd
+*.wdb
+
+# OS/editor
+.DS_Store
+*.swp
